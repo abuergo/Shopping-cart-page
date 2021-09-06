@@ -1,4 +1,4 @@
-# SHOPING CART PAGE
+# SHOPPING CART PAGE
 
 In this project I implement some functions of JavaScript in order to put them in practice. 
 
