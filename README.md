@@ -1,5 +1,5 @@
+# SHOPING CART PAGE
+
 In this project I implement some functions of JavaScript in order to put them in practice. 
 
-I upload the project almost finished.
-
-- Local Storage needs to be implemented
+You can access and view the website by following the link below: https://abuergo.github.io/Shopping-cart-page/
